@@ -4,7 +4,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 import os
 
-os.environ["NVIDIA_API_KEY"] = "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"  
+os.environ["NVIDIA_API_KEY"] = "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"  #replace with your unique API key
 
 llm = ChatNVIDIA(model="meta/llama3-70b-instruct")
 
