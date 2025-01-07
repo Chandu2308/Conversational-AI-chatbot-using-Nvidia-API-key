@@ -1,6 +1,6 @@
 # Conversational-AI-chatbot-using-Nvidia-API-key
 This project is a conversational AI chatbot built using Streamlit and NVIDIA's LLM APIs. It features real-time interactions powered by the LLaMA3-70B model, leveraging session states to maintain chat history. The chatbot provides a user-friendly interface for seamless and natural communication.
-# Conversational AI Chatbot with NVIDIA LLaMA3-70B  
+# Conversational AI Chatbot with NVIDIA Nemotron LLaMA3-70B  
 
 ## Project Overview  
 This project is a conversational AI chatbot developed using **Streamlit** and **NVIDIA's LLaMA3-70B API**. It provides a simple and intuitive interface for real-time natural language interactions. The chatbot retains session state to manage chat history effectively.
